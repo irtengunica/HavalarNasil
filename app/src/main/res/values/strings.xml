@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Havalar Nasıl?</string>
+    <string name="please_enter_city_name">Lütfen bir ilçe adı yazınız.</string>
+    <string name="celcius_degree_code">\u2103</string>
+    <string name="how_is_the_weather">Havalar Nasıl?</string>
+    <string name="temperature">Sıcaklık:</string>
+    <string name="description">Halk diliyle:</string>
+    
+
+</resources>
